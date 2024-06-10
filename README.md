@@ -2,7 +2,8 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
-<img  align="right" width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
+<img  align="right" width="250" src="https://media.giphy.com/media/RK5KD6UcUpAt92zZvt/giphy.gif">
+
 
 - 🔭 I’m currently Studying in **Sri Ramachandra Faculty of Engineering and Technology, Chennai**
 
