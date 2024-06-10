@@ -18,7 +18,7 @@
 
 <h3 align="left"> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/m-s-vishali-8b5418307?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bfcdefygytjwt39vlkr14sg%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/m-s-vishali-8b5418307?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bfcdefygytjwt39vlkr14sg%3d%3d" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/m-s-vishali-8b5418307/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/m-s-vishali-8b5418307/" height="30" width="40" /></a>
 <a href="https://instagram.com/vishali_0_8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vishali_0_8" height="30" width="40" /></a>
 </p>
 
